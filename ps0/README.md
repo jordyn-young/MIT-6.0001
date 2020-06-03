@@ -3,7 +3,6 @@
 
 **My Solutions**
 * ps0.py
-    * My code for ps0
 
 **Other Files**
 * Getting_Started_With_Python.pdf
