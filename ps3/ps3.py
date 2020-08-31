@@ -4,7 +4,7 @@
 # Created by: Kevin Luu <luuk> and Jenna Wiens <jwiens>
 #
 # Name          : Jordyn Young
-# Collaborators : N/A
+# Collaborators : None
 # Time spent    : <total time>
 
 import math
